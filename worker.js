@@ -11,6 +11,7 @@ const subLinks = [
       'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/protocols/trojan',
       'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/protocols/vmess',
       'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
+      'https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/providers',
     ];
     
     export default {
@@ -29,6 +30,7 @@ const subLinks = [
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <meta http-equiv="X-UA-Compatible" content="ie=edge">
                 <title>Trojan-worker</title>
+                <link rel="icon" href="https://www.iconarchive.com/download/i55059/mymovingreviews/3d-movers/worker-green.32.png" />
                 <style>
                     body {
                         font-family: Arial, sans-serif;
